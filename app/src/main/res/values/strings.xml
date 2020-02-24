@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">SorteioAndroid</string>
+    <string name="app_name">DrawApp - Ricardo ADS5 - IFSC Gaspar</string>
+    <string name="sortear">Draw</string>
+    <string name="frase">Input a range of numbers:</string>
 </resources>
